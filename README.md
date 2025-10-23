@@ -1,0 +1,1 @@
+This project is a web scraping project. In this project, the prices of phones were obtained from the website of Kontakt (a company that sells electronics). The goal of the project is to obtain the prices of iPhone phone brands and save them in Excel format. Request and beautifulsoup were used in this project.
